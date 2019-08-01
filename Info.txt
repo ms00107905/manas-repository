@@ -1,0 +1,181 @@
+Shift n On Call Allowance
+-------------------------
+https://shiftallowance.in.capgemini.com/ 
+
+
+https://www.heidisql.com/download.php 
+
+RMG of Apps Two
+------------------
+suyog.sawant@capgemini.com 
+neha.e.sinha@capgemini.com 
+
+Apps HR 
+--------
+Biswas, Jayati
+
+VVM Tool:
+----------
+https://vvm.capgemini.com/visualmanagement/?page=use&board=12166
+
+
+SVN
+------
+http://nlwp0109.corp.capgemini.com/!/#
+manasrsa
+europhia
+
+International calling
+900
+
+NEDMZ Domain Login ID
+----------------------
+Username :- ADM-BNL-MANASRSA
+Password :- Pass@1234
+
+ADm Account 
+----------
+Username :- ADM-BNL-MANASRSA
+Password :- Europhia_95
+
+To download freely available software
+--------------------------------------
+http://appstore.in.capgemini.com/ 
+
+On Call, Shift
+--------------
+\\10.36.33.117\Work Status
+
+
+Meal Re-imbursement
+-----------------------
+Enter time and ID, report in excel sheet provided in \\VBNL20080\MealExpense
+
+> Go to aaps.ne  and click on My Expense
+> Create Claim
+>Take approval from manager 
+>Attch the html format
+
+
+
+
+Outlook Pst Password :
+-------------------------
+jul@2017
+
+
+
+Himanshu Joshi(Transfer)
+----------------
+2212099
+
+
+\\ntbomfs001\Datapub\HR\Policies\Compensation & benefits 
+
+VPC details 
+------------
+VBNL20097
+corp\manasrsa
+jul@2017
+
+
+Oracle 
+---------
+SYSTEM/tiger
+
+
+https://ess.excelityglobal.com/
+-------------------------------
+ PIN - 0049938950
+ PASSWORD - Europ_89
+
+
+Window details 
+---------------
+Username: manasrsa
+Pass: europhia_89
+
+
+Portal : http://talent.capgemini.com/in/
+
+
+Mdical insurance 
+-----------------
+https://www.uhcpindia.com 
+User ID : CAPACIS124058
+Pass:Europhia@89
+
+
+Project details
+----------------
+Employee Details:
+BU                Sub BU         Service Line    Location 
+AppsTwo CSD AM   AppsTwo CSD AM  CSD Others     Mumbai III  
+
+Assignment Details:
+Project Code  Project Name 	Assignment Start Date   Assignment End Date 
+100222295 	NLY601045 	28-Feb-2017 		27-Feb-2019 
+
+
+Employee Number	Employee name	Delivery Center Mapping	Application/Region	New Code	New Code Name	BU 
+124058	Sahoo, Mr. Manas Ranjan	Multitech	Coldfusion	100553381	Y67 - GAP / MTech / AM India Support	 Apps 2 
+
+
+100157390    IN27_PUBLIC HOLIDAY 
+
+1000006  Leave - Comp Off
+
+Time sheet L & D
+------------------
+Project ID : 100056441 
+Project Name : IN03_L&D_CSD_AppsTwo 
+
+
+Server access
+---------------
+
+LoginID: ADM-BNL-MANASRSA
+Password:G3OmidoS
+
+For invoice server (198.184.231.136)
+---------------------------------------
+SVC-BNL-TRANSFER / Smoke@2016
+
+
+For internet hosted sites(nedmz)
+----------------------------------
+nedmz\adm-bnl-tgopale
+Pass@1234
+
+
+adm-bnl-sshanka3
+Varnika@1234
+
+
+Effort Tracker:
+----------------
+Url :  https://etracker-groupit.ne.capgemini.com
+URL: http://etracker-groupit.ne.capgemini.com/EffortTracking/User/UserLogin.aspx
+Username : manasrsa
+Password : europhia_89
+
+
+ITSM Tool for incidents
+-------------------------
+http://arserver.eu.capgemini.com:8080/arsys/forms/eu-itsm-prod/SHR%3ALandingConsole/Default+Administrator+View/?cacheid=b3cbce2 
+
+
+
+Phone Extension Number: 8054406
+PSTN Number: + 91 80 66567000 (Board)
+Login ID : - manasrsa	Default PIN:12345  (Pin Length 5 Digit)
+
+
+
+Update sheet for leave (leave tracker)
+--------------------------------------
+https://coconet.capgemini.com/sf/go/doc10260851
+
+https://e-3d.capgemini.com/sites/ESC104980/proj4980/Shared%20Documents/Forms/RootRepository.aspx?RootFolder=%2Fsites%2FESC104980%2Fproj4980%2FShared%20Documents%2FOnboarding&FolderCTID=0x01200057561B2DF084774C9518C891564A9E0F&View=%7B2F76F584%2DB714%2D48A1%2D9443%2DCD0132BB5809%7D 
+ 
+
